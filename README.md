@@ -85,8 +85,6 @@ Turn your curriculum into dynamic question papers and tailor‑made study notes�
 * 🟡 **OpenAI Integration** (Question‑Paper Generation)
 * 🟡 **RAG Pipeline** (Notes Generation)
 * 🔲 User Authentication & Profiles
-* 🔲 Frontend UI (React)
-* 🔲 Deployment Scripts & CI/CD
 * 🔲 Automated Testing & Coverage
 
 *Stay tuned: more features coming soon!*
